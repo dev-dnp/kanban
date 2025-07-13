@@ -6,7 +6,7 @@ Este projeto faz parte de um programa de treinamento para desenvolvedores front-
 Esta foi a conclusão de mais uma obra de arte tecnológica! Confira mais sobre o projecto abaixo...
 
 ## Link do Projeto
-<https://domingos3000.github.io/KanBan/>
+<https://dev-dnp.github.io/kanban/>
 
 ## Tecnologias usadas
 
